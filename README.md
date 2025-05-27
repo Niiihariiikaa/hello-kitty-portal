@@ -1,7 +1,7 @@
 ## Grievance Portal – Hello Kitty Edition 🎀
 
 A cute MERN-based complaint portal made for my boyfriend 
-![image](https://github.com/user-attachments/assets/d5425532-93b7-48f5-8492-d989231a1609)   ![image](https://github.com/user-attachments/assets/8fcfc732-f5fc-4b36-ac9b-0f275694e72e)
+<div align="center"> <img src="https://github.com/user-attachments/assets/d5425532-93b7-48f5-8492-d989231a1609" alt="Screenshot 1" width="200"/> &nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/8fcfc732-f5fc-4b36-ac9b-0f275694e72e" alt="Screenshot 2" width="200"/> </div>
 
 
 
