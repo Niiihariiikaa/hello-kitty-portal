@@ -2,17 +2,17 @@
 
 A cute MERN-based complaint portal made for my boyfriend 
 
+## 🛠 Tech Stack
+
+**Frontend:** React 19, React Router, Axios, CSS
+**Backend:** Express 5, MongoDB, Mongoose, Firebase-admin
+
 ## 🌟 Features
 
 * 💖 Pink Hello Kitty game-inspired UI 
 * 📝 Submit complaints
 * 💬 Firebase-ready backend
 * 🌐 Deployed on Render
-
-## 🛠 Tech Stack
-
-**Frontend:** React 19, React Router, Axios, CSS
-**Backend:** Express 5, MongoDB, Mongoose, Firebase-admin
 
 ## 🚀 Live Demo
 
