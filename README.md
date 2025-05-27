@@ -1,6 +1,11 @@
 ## Grievance Portal – Hello Kitty Edition 🎀
 
 A cute MERN-based complaint portal made for my boyfriend 
+## 🚀 Live Demo
+
+🔗 **[Try it here](https://portal3.onrender.com/)** 
+👤 **Demo Login:**
+`test1@gmail.com` / `test123`
 
 ## 🛠 Tech Stack
 
@@ -13,12 +18,6 @@ A cute MERN-based complaint portal made for my boyfriend
 * 📝 Submit complaints
 * 💬 Firebase-ready backend
 * 🌐 Deployed on Render
-
-## 🚀 Live Demo
-
-🔗 **[Try it here](https://portal3.onrender.com/)** 
-👤 **Demo Login:**
-`test1@gmail.com` / `test123`
 
 
 Built with 💕 so complaints feel like care, not conflict.
