@@ -16,7 +16,7 @@ A cute MERN-based complaint portal made for my boyfriend
 
 ## 🚀 Live Demo
 
-🔗 **[Try it here](#https://portal3.onrender.com/)** (Add your Render link)
+🔗 **[Try it here](https://portal3.onrender.com/)** 
 👤 **Demo Login:**
 `test1@gmail.com` / `test123`
 
